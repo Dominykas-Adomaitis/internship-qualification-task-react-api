@@ -7,6 +7,9 @@ cd ./server
 npm i
 node index.js
 ```
+
+
+
 To run the client side navigate to the client folder and run:
 ```
 cd ./client
